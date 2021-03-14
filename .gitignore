@@ -1,0 +1,7 @@
+node_modules
+.idea
+vendor
+.DS_Store
+*.swp
+/public/
+/resources/_gen/
