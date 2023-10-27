@@ -1,0 +1,28 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<main>
+			<h1>🧑‍🚀 Hello, dear reader!</h1>
+			<p>
+				Welcome to my personal website <a href="https://hypergraph.sapce/">Hyper Graph Space</a>. This website is
+				built with <a href="https://astro.build/">Astro</a>, a new static site builder that I'm really excited about.
+			</p>
+			<p>I'm not a big believer in blog comments, so if you want to reach out and discuss, <strong>@</strong> me on Twitter/X.</p>
+			<p>All the best,</p>
+			<p>Ronald Jordan</p>
+
+		</main>
+		<Footer />
+	</body>
+</html>

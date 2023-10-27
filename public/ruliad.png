@@ -1,0 +1,14 @@
+--2023-10-27 04:34:14--  https://content.wolfram.com/sites/43/2021/11/1110swimg5v2.png
+Resolving content.wolfram.com (content.wolfram.com)... 13.226.210.114, 13.226.210.76, 13.226.210.65, ...
+Connecting to content.wolfram.com (content.wolfram.com)|13.226.210.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199084 (194K) [image/png]
+Saving to: ‘1110swimg5v2.png’
+
+     0K .......... .......... .......... .......... .......... 25% 1.00M 0s
+    50K .......... .......... .......... .......... .......... 51% 3.15M 0s
+   100K .......... .......... .......... .......... .......... 77% 3.49M 0s
+   150K .......... .......... .......... .......... ....      100% 4.88M=0.09s
+
+2023-10-27 04:34:15 (2.18 MB/s) - ‘1110swimg5v2.png’ saved [199084/199084]
+
